@@ -1,0 +1,175 @@
+Surname,Name,Age,Gender,Country,Ethnicity,Start_date,Department,Position,Salary
+Bold,Caroline,63,Female,United States,White,2012-07-02,Executive Office,President & CEO,166400.0
+Zamora,Jennifer,38,Female,United States,White,2010-04-10,IT/IS,CIO,135200.0
+Houlihan,Debra,51,Female,United States,White,2014-05-05,Sales,Director of Sales,124800.0
+Bramante,Elisa,34,Female,United States,Black or African American,2009-01-05,Production       ,Director of Operations,124800.0
+Del Bosque,Keyla,38,Female,United States,Black or African American,2012-01-09,Software Engineering,Software Engineer,118809.59999999999
+Onque,Jasmine,27,Female,United States,White,2013-09-30,Sales,Area Sales Manager,118560.0
+Carabbio,Judith,30,Female,United States,White,2013-11-11,Software Engineering,Software Engineer,116480.0
+Martin,Sandra,30,Female,United States,Asian,2013-11-11,Software Engineering,Software Engineer,115460.8
+Warfield,Sarah,39,Female,United States,Asian,2015-03-30,IT/IS,Sr. Network Engineer,114816.0
+Liebig,Ketsia,36,Female,United States,White,2013-09-30,Production       ,Production Manager,114400.0
+Sullivan,Kissy,39,Female,United States,Black or African American,2009-01-08,Production       ,Production Manager,114400.0
+Carter,Michelle,54,Female,United States,White,2014-08-18,Sales,Area Sales Manager,114400.0
+Costa,Latia,29,Female,United States,White,2011-01-10,Sales,Area Sales Manager,114400.0
+Dietrich,Jenna,30,Female,United States,White,2012-02-20,Sales,Area Sales Manager,114400.0
+Givens,Myriam,28,Female,United States,White,2015-02-16,Sales,Area Sales Manager,114400.0
+Nguyen,Dheepa,28,Female,United States,Two or more races,2013-07-08,Sales,Area Sales Manager,114400.0
+Potts,Xana,29,Female,United States,Black or African American,2012-01-09,Sales,Area Sales Manager,114400.0
+Terry,Sharlene,52,Female,United States,Black or African American,2014-09-29,Sales,Area Sales Manager,114400.0
+Valentin,Jackie,26,Female,United States,Two or more races,2011-07-05,Sales,Area Sales Manager,114400.0
+Daneault,Lynn,27,Female,United States,White,2014-05-05,Sales,Sales Manager,112320.0
+Strong,Caitrin,28,Female,United States,Black or African American,2010-09-27,Sales,Area Sales Manager,112320.0
+Spirea,Kelley,42,Female,United States,White,2012-10-02,Production       ,Production Manager,108160.0
+Dunn,Amy,44,Female,United States,White,2014-09-18,Production       ,Production Manager,106080.0
+Saada,Adell,31,Female,United States,White,2012-11-05,Software Engineering,Software Engineer,102440.0
+Andreola,Colby,38,Female,United States,White,2014-11-10,Software Engineering,Software Engineer,99008.0
+Shepard,Anita,36,Female,United States,White,2014-09-30,IT/IS,Network Engineer,97760.0
+Petrowsky,Thelma,33,Female,United States,Asian,2014-11-10,IT/IS,Database Administrator,88920.0
+Roby,Lori,36,Female,United States,White,2015-02-16,IT/IS,Database Administrator,82264.0
+Gonzalez,Maria,36,Female,United States,White,2015-01-05,IT/IS,Network Engineer,81120.0
+Dolan,Linda,29,Female,United States,White,2015-01-05,IT/IS,Network Engineer,76960.0
+Boutwell,Bonalyn,30,Female,United States,Asian,2015-02-16,Admin Offices,Sr. Accountant,72696.0
+Foster-Baker,Amy,38,Female,United States,White,2009-01-05,Admin Offices,Sr. Accountant,72696.0
+Horton,Jayne,33,Female,United States,White,2015-03-30,IT/IS,Database Administrator,70720.0
+Galia,Lisa,49,Female,United States,White,2010-05-01,IT/IS,IT Support,65312.0
+Zhou,Julia,38,Female,United States,White,2015-03-30,IT/IS,Database Administrator,65312.0
+Brown,Mia,32,Female,United States,Black or African American,2008-10-27,Admin Offices,Accountant I,59280.0
+Soto,Julia,44,Female,United States,Black or African American,2011-06-10,IT/IS,IT Support,57179.2
+Blount,Dianna,27,Female,United States,White,2011-04-04,Production       ,Production Technician II,56160.0
+Faller,Megan,39,Female,United States,Black or African American,2014-07-07,Production       ,Production Technician II,56160.0
+Morway,Tanya,38,Female,United States,White,2015-02-16,IT/IS,Network Engineer,56160.0
+Nowlan,Kristie,32,Female,United States,White,2014-11-10,Production       ,Production Technician II,54891.2
+Lunquist,Lisa,35,Female,United States,Black or African American,2013-08-19,Production       ,Production Technician II,54288.0
+McCarthy,Brigit,30,Female,United States,White,2015-03-30,Production       ,Production Technician II,54080.0
+Petingill,Shana,38,Female,Australia,Asian,2012-04-02,Production       ,Production Technician II,54080.0
+Lindsay,Leonara,29,Female,United States,Two or more races,2011-01-21,IT/IS,IT Support,54080.0
+Burke,Joelle,37,Female,United States,Black or African American,2012-03-05,Production       ,Production Technician II,52000.0
+Johnston,Yen,48,Female,United States,White,2014-07-07,Production       ,Production Technician II,52000.0
+Monterro,Luisa,47,Female,United States,Black or African American,2013-05-13,Production       ,Production Technician II,52000.0
+Smith,Sade,53,Female,United States,White,2013-11-11,Production       ,Production Technician I,50960.0
+Erilus,Angela,28,Female,United States,White,2014-07-07,Production       ,Production Technician II,49920.0
+Fancett,Nicole,30,Female,United States,Black or African American,2014-02-17,Production       ,Production Technician II,49920.0
+Fidelia,Libby,36,Female,United States,White,2012-01-09,Production       ,Production Technician I,49920.0
+Gaul,Barbara,34,Female,United States,Black or African American,2011-05-16,Production       ,Production Technician I,49920.0
+Handschiegl,Joanne,40,Female,United States,White,2011-11-28,Production       ,Production Technician I,49920.0
+Mckenna,Sandy,31,Female,United States,Black or African American,2013-01-07,Production       ,Production Technician I,49920.0
+Tippett,Jeanette,50,Female,United States,Black or African American,2013-02-18,Production       ,Production Technician I,49920.0
+Anderson,Linda,40,Female,United States,White,2012-01-09,Production       ,Production Technician I,47840.0
+Ferreira,Violeta,31,Female,United States,White,2012-02-20,Production       ,Production Technician I,47840.0
+Mangal,Debbie,43,Female,United States,White,2013-11-11,Production       ,Production Technician I,47840.0
+Jeannite,Tayana,31,Female,United States,Black or African American,2011-07-05,Production       ,Production Technician II,46800.0
+Wolk,Hang T,32,Female,United States,White,2014-09-29,Production       ,Production Technician II,45760.0
+Beatrice,Courtney,47,Female,Australia,White,2011-04-04,Production       ,Production Technician I,45760.0
+Biden,Lowan M,59,Female,United States,Asian,2013-08-19,Production       ,Production Technician I,45760.0
+Cierpiszewski,Caroline,29,Female,Poland,Black or African American,2011-10-03,Production       ,Production Technician I,45760.0
+DiNocco,Lily,39,Female,United States,Black or African American,2013-01-07,Production       ,Production Technician I,45760.0
+Rivera,Haley,45,Female,United States,Asian,2011-11-28,Production       ,Production Technician I,45760.0
+Trang,Mei,34,Female,United States,White,2014-02-17,Production       ,Production Technician I,45760.0
+Howard,Estelle,32,Female,United States,White,2015-02-16,Admin Offices,Administrative Assistant,44720.0
+Alagbe,Trina,29,Female,United States,White,2008-01-07,Production       ,Production Technician I,43680.0
+Jacobi,Hannah,51,Female,United States,White,2013-09-30,Production       ,Production Technician I,43680.0
+Sander,Kamrin,29,Female,United States,Black or African American,2014-09-29,Production       ,Production Technician I,43680.0
+Harrison,Kara,43,Female,United States,White,2014-05-12,Production       ,Production Technician I,41600.0
+Jackson,Maryellen,45,Female,United States,White,2012-11-05,Production       ,Production Technician I,41600.0
+Maurice,Shana,40,Female,United States,White,2011-05-31,Production       ,Production Technician I,41600.0
+Medeiros,Jennifer,41,Female,United States,White,2015-03-30,Production       ,Production Technician I,41600.0
+Chan,Lin,38,Female,United States,White,2014-05-12,Production       ,Production Technician I,40560.0
+Gentry,Mildred,27,Female,United States,Black or African American,2015-03-30,Production       ,Production Technician I,39520.0
+Jhaveri,Sneha,53,Female,United States,White,2014-01-06,Production       ,Production Technician I,39520.0
+Nguyen,Lei-Ming,33,Female,United States,White,2013-07-08,Production       ,Production Technician I,39520.0
+Gold,Shenice,25,Female,United States,White,2013-11-11,Production       ,Production Technician I,35360.0
+Mahoney,Lauren,31,Female,United States,White,2014-01-06,Production       ,Production Technician I,35360.0
+Peterson,Kayla,44,Female,United States,White,2010-04-26,Production       ,Production Technician I,35360.0
+Rose,Ashley,43,Female,United States,White,2014-01-06,Production       ,Production Technician I,35360.0
+Dobrin,Denisa S,31,Female,United States,White,2012-04-02,Production       ,Production Technician I,34840.0
+Singh,Nan,29,Female,United States,White,2015-05-01,Admin Offices,Administrative Assistant,34444.799999999996
+Billis,Helen,28,Female,United States,White,2014-07-07,Production       ,Production Technician I,33280.0
+Chace,Beatrice,67,Female,United States,White,2014-09-29,Production       ,Production Technician I,33280.0
+Girifalco,Evelyn,37,Female,United States,Two or more races,2014-09-29,Production       ,Production Technician I,33280.0
+Ivey,Rose,27,Female,United States,White,2013-08-19,Production       ,Production Technician I,33280.0
+Sparks,Taylor,49,Female,United States,White,2012-02-20,Production       ,Production Technician I,33280.0
+Cornett,Lisa,40,Female,United States,White,2015-01-05,Production       ,Production Technician I,32760.0
+Darson,Jene'ya,39,Female,United States,White,2012-07-02,Production       ,Production Technician I,31200.0
+Motlagh,Dawn,33,Female,United States,White,2013-04-01,Production       ,Production Technician I,31200.0
+Ngodup,Shari,50,Female,United States,Asian,2013-04-01,Production       ,Production Technician I,31200.0
+Shields,Seffi,32,Female,United States,White,2013-08-19,Production       ,Production Technician I,31200.0
+Zima,Colleen,39,Female,United States,Asian,2014-09-29,Production       ,Production Technician I,31200.0
+Stanford,Barbara M,35,Female,United States,Two or more races,2011-01-10,Production       ,Production Technician I,29120.0
+Sutwell,Barbara,49,Female,Australia,Asian,2012-05-14,Production       ,Production Technician I,29120.0
+Foss,Jason,37,Male,United States,Black or African American,2011-04-15,IT/IS,IT Director,135200.0
+Dougall,Eric,47,Male,United States,White,2014-01-05,IT/IS,IT Manager - Support,133120.0
+Monroe,Peter,31,Male,France,Hispanic,2012-02-15,IT/IS,IT Manager - Infra,131040.0
+Roup,Simon,44,Male,United States,White,2013-01-20,IT/IS,IT Manager - DB,128960.0
+Smith,John,33,Male,United States,Black or African American,2014-05-18,Sales,Sales Manager,116480.0
+Digitale,Alfred,29,Male,United States,Black or African American,2014-08-18,Sales,Area Sales Manager,116480.0
+Jeremy,Peter,43,Male,United States,White,2014-05-12,Sales,Area Sales Manager,116480.0
+Martins,Joseph,47,Male,Israel,Black or African American,2012-05-14,Sales,Area Sales Manager,116480.0
+Villanueva,Noah,28,Male,United States,Asian,2012-03-05,Sales,Area Sales Manager,116480.0
+Friedman,Gerry,48,Male,United States,Two or more races,2011-03-07,Sales,Area Sales Manager,115440.0
+Gonzales,Ricardo,63,Male,United States,White,2014-05-12,Sales,Area Sales Manager,115440.0
+LeBlanc,Brandon R ,33,Male,United States,White,2016-01-05,Admin Offices,Shared Services Manager,114400.0
+Butler,Webster L,34,Male,United States,White,2016-01-28,Production       ,Production Manager,114400.0
+Buck,Edward,42,Male,United States,White,2014-09-29,Sales,Area Sales Manager,114400.0
+Fraval,Maruk,54,Male,United States,Black or African American,2011-09-06,Sales,Area Sales Manager,114400.0
+Khemmich,Bartholemew,38,Male,United States,White,2013-08-19,Sales,Area Sales Manager,114400.0
+Leruth,Giovanni,29,Male,United States,Black or African American,2012-04-30,Sales,Area Sales Manager,114400.0
+Mullaney,Howard,42,Male,United States,Two or more races,2014-09-29,Sales,Area Sales Manager,114400.0
+Ozark,Travis,35,Male,United States,White,2015-01-05,Sales,Area Sales Manager,114400.0
+Riordan,Michael,50,Male,United States,White,2006-01-09,Sales,Area Sales Manager,114400.0
+Albert,Michael,49,Male,United States,White,2011-08-01,Production       ,Production Manager,113360.0
+Gray,Elijiah,36,Male,United States,White,2015-06-02,Production       ,Production Manager,112320.0
+South,Joe,52,Male,United States,White,2014-11-10,IT/IS,Sr. Network Engineer,110240.0
+Miller,Brannon,36,Male,United States,Hispanic,2012-08-16,Production       ,Production Manager,110240.0
+Stanley,David,42,Male,United States,White,2010-07-20,Production       ,Production Manager,110240.0
+Turpin,Jumil,48,Male,Saudi Arabia,White,2015-03-30,IT/IS,Network Engineer,102128.0
+Szabo,Andrew,34,Male,United States,White,2014-07-07,Software Engineering,Software Engineer,99840.0
+Bacong,Alejandro,30,Male,United States,White,2015-01-05,IT/IS,Network Engineer,93600.0
+Merlos,Carlos,30,Male,United States,White,2015-03-30,IT/IS,Network Engineer,89440.0
+Rogers,Ivan,31,Male,United States,White,2015-03-30,IT/IS,Database Administrator,87776.0
+Cisco,Anthony,28,Male,United States,White,2015-03-30,IT/IS,Network Engineer,87360.0
+Murray,Thomas,29,Male,United States,Black or African American,2014-11-10,IT/IS,Database Administrator,73840.0
+Simard,Kramer,47,Male,United States,White,2015-01-05,IT/IS,Database Administrator,62816.0
+Moumanil,Maliki,43,Male,United States,Black or African American,2013-05-13,Production       ,Production Technician II,60320.0
+Sahoo,Adil,31,Male,United States,White,2010-08-30,Production       ,Production Technician II,60320.0
+Steans,Tyrone,31,Male,United States,White,2014-09-29,Admin Offices,Accountant I,60320.0
+Clayton,Rick,32,Male,United States,White,2012-09-05,IT/IS,IT Support,60299.2
+Sweetwater,Alex,51,Male,United States,White,2011-08-15,Software Engineering     ,Software Engineering Manager,56160.0
+Monkfish,Erasumus,25,Male,United States,White,2011-11-07,Production       ,Production Technician II,56160.0
+Burkett,Benjamin,40,Male,United States,White,2011-04-04,Production       ,Production Technician II,54080.0
+Davis,Daniel,38,Male,Australia,Two or more races,2011-11-07,Production       ,Production Technician II,52000.0
+Woodson,Jason,32,Male,United States,White,2014-07-07,Production       ,Production Technician II,50440.0
+Hankard,Earnest,29,Male,United States,White,2013-11-11,Production       ,Production Technician II,49920.0
+LaRotonda,William,33,Male,United States,Black or African American,2014-01-06,Admin Offices,Accountant I,47840.0
+Buccheri,Joseph,34,Male,United States,White,2014-09-29,Production       ,Production Technician II,45760.0
+Smith,Joe,54,Male,United States,White,2014-09-29,Production       ,Production Technician II,45760.0
+Walker,Roger,41,Male,United States,Black or African American,2014-08-18,Production       ,Production Technician II,45760.0
+Athwal,Sam,34,Male,United States,White,2013-09-30,Production       ,Production Technician I,45760.0
+Chang,Donovan E,34,Male,United States,White,2013-07-08,Production       ,Production Technician I,45760.0
+Owad,Clinton,38,Male,United States,Black or African American,2014-02-17,Production       ,Production Technician I,45760.0
+Stoica,Rick,32,Male,United States,Asian,2014-02-17,Production       ,Production Technician I,45760.0
+Engdahl,Jean,43,Male,United States,White,2014-11-10,Production       ,Production Technician I,44200.0
+Dickinson,Geoff,35,Male,United States,White,2014-05-12,Production       ,Production Technician I,43680.0
+England,Rex,39,Male,United States,White,2014-03-31,Production       ,Production Technician I,43680.0
+Harrell,Ludwick,35,Male,United States,Asian,2012-05-14,Production       ,Production Technician I,43680.0
+Kretschmer,John,37,Male,United States,Asian,2011-01-10,Production       ,Production Technician I,43680.0
+Adinolfi,WilsonK,34,Male,United States,White,2011-07-05,Production       ,Production Technician I,41600.0
+Carey,Michael,34,Male,United States,Black or African American,2014-03-31,Production       ,Production Technician I,41600.0
+Desimone,Carl,50,Male,United States,White,2014-07-07,Production       ,Production Technician I,41600.0
+Garcia,Raul,32,Male,United States,White,2015-03-30,Production       ,Production Technician I,39520.0
+Heitzman,Anthony,34,Male,United States,White,2012-08-13,Production       ,Production Technician I,39520.0
+Keatts,Kramer,42,Male,United States,White,2013-09-30,Production       ,Production Technician I,39520.0
+Sullivan,Timothy,35,Male,United States,White,2015-01-05,Production       ,Production Technician I,39520.0
+Fernandes,Nilson,28,Male,United States,White,2015-05-11,Production       ,Production Technician I,37440.0
+Garneau,Hamish,37,Male,United States,Asian,2013-07-08,Production       ,Production Technician I,37440.0
+Langton,Enrico,31,Male,United States,White,2012-07-09,Production       ,Production Technician I,35360.0
+Pitt,Brad,36,Male,United States,Black or African American,2007-11-05,Production       ,Production Technician I,35360.0
+Robinson,Elias,33,Male,United States,White,2013-07-08,Production       ,Production Technician I,35360.0
+Barone,Francesco A,34,Male,United States,Two or more races,2012-02-20,Production       ,Production Technician I,34860.8
+Bernstein,Sean,47,Male,United States,White,2012-04-02,Production       ,Production Technician I,33280.0
+Gonzalez,Cayo,48,Male,United States,Black or African American,2011-07-11,Production       ,Production Technician I,33280.0
+Osturnka,Adeel,41,Male,United States,White,2013-09-30,Production       ,Production Technician I,33280.0
+Punjabhi,Louis,56,Male,United States,White,2014-01-06,Production       ,Production Technician I,33280.0
+Cockel,James,40,Male,United States,White,2013-07-08,Production       ,Production Technician I,31200.0
+Gordon,David,38,Male,United States,White,2012-07-02,Production       ,Production Technician I,31200.0
+Knapp,Bradley J,40,Male,United States,Black or African American,2014-02-17,Production       ,Production Technician I,29120.0
